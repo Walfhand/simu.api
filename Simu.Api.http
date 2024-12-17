@@ -1,6 +1,6 @@
 @Simu.Api_HostAddress = http://localhost:5123
 
-GET {{Simu.Api_HostAddress}}/weatherforecast/
+GET http://localhost:8080/weatherforecast/
 Accept: application/json
 
 ###
